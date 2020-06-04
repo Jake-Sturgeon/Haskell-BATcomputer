@@ -1,6 +1,6 @@
-# Dominoes
+# BATcomputer
 
-A game of Dominoes with several player types.
+A simple computer that performs instructions on boxes
 
 ## Installation
 
